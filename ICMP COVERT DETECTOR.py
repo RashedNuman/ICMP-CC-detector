@@ -4,7 +4,7 @@
 
 Description: Detection code of covert channels in ICMP medium through deep state packet inspection and fuzzy logic control system
 Language: Python3
-Authors: Rashed, Qusai, Ammar, Sahar, Saeed
+Authors: Rashed, Qusai, Ammar
                         
 """
 import time
